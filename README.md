@@ -60,7 +60,7 @@
 ![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
 ![Yarn](https://img.shields.io/badge/-Yarn-grey?style=for-the-badge&logo=Yarn)
 
-</hr>
+<hr/>
 
 ### Tinysocial
 
