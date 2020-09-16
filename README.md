@@ -11,17 +11,17 @@
 
 ## About me
 
-👱‍♂️ Name: Seongjae Song
+👱‍♂️ **Name**: Seongjae Song
 
-💻 Interest: Backend(Server) Dev
+💻 **Interest**: Backend(Server) Dev
 
-✉️ Email: tjdkskgnal61@gmail.com ([![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjdkskgnal61@gmail.com)](mailto:tjdkskgnal61@gmail.com))
+✉️ **Email**: tjdkskgnal61@gmail.com ([![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjdkskgnal61@gmail.com)](mailto:tjdkskgnal61@gmail.com))
 
-🏠 Location: Seoul, South Korea
+🏠 **Location**: Seoul, South Korea
 
-🏢 Company: DoubleNC(Internship)
+🏢 **Company**: DoubleNC(Internship)
 
-🏫 School: Computer Science in Kookmin Univ, Seoul, Korea
+🏫 **School**: Computer Science in Kookmin Univ, Seoul, Korea
 
 
 ## What I did
@@ -60,6 +60,7 @@
 ![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
 ![Yarn](https://img.shields.io/badge/-Yarn-grey?style=for-the-badge&logo=Yarn)
 
+</hr>
 
 ### Tinysocial
 
