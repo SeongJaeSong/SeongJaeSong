@@ -19,9 +19,9 @@
 
 🏠 **Location**: Seoul, South Korea
 
-🏢 **Company**: DoubleNC(Internship)
+🏢 **Company**: DoubleNC *(Internship)*
 
-🏫 **School**: Computer Science in Kookmin Univ, Seoul, Korea
+🏫 **Major**: Computer Science in Kookmin Univ. Seoul, Korea
 
 
 ## What I did
@@ -30,35 +30,41 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=for-the-badge&logo=Node.js)
-![NPM](https://img.shields.io/badge/-NPM-grey?style=for-the-badge&logo=NPM)
-![Nodemon](https://img.shields.io/badge/-Nodemon-grey?style=for-the-badge&logo=Nodemon)
+![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-grey?style=for-the-badge&logo=Apollo%20GraphQL)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDb)
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap)
-![ESLint](https://img.shields.io/badge/-ESLint-grey?style=for-the-badge&logo=ESLint)
-![Jest](https://img.shields.io/badge/-Jest-grey?style=for-the-badge&logo=Jest)
-![MySQL](https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-grey?style=for-the-badge&logo=Jupyter)
 ![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-grey?style=for-the-badge&logo=Amazon%20AWS)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-grey?style=for-the-badge&logo=TensorFlow)
-![Confluence](https://img.shields.io/badge/-Confluence-grey?style=for-the-badge&logo=Confluence)
-![Trello](https://img.shields.io/badge/-Trello-grey?style=for-the-badge&logo=Trello)
-![Slack](https://img.shields.io/badge/-Slack-grey?style=for-the-badge&logo=Slack)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=for-the-badge&logo=Visual%20Studio%20Code)
-![Jira](https://img.shields.io/badge/-Jira-grey?style=for-the-badge&logo=jira)
-![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDb)
-![Keras](https://img.shields.io/badge/-Keras-grey?style=for-the-badge&logo=Keras)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?style=for-the-badge&logo=Google%20Cloud)
-![Kaggle](https://img.shields.io/badge/-Kaggle-grey?style=for-the-badge&logo=Kaggle)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux)
-![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
+![ESLint](https://img.shields.io/badge/-ESLint-grey?style=for-the-badge&logo=ESLint)
+![Jest](https://img.shields.io/badge/-Jest-grey?style=for-the-badge&logo=Jest)
 ![Yarn](https://img.shields.io/badge/-Yarn-grey?style=for-the-badge&logo=Yarn)
+![NPM](https://img.shields.io/badge/-NPM-grey?style=for-the-badge&logo=NPM)
+![Nodemon](https://img.shields.io/badge/-Nodemon-grey?style=for-the-badge&logo=Nodemon)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-grey?style=for-the-badge&logo=Amazon%20AWS)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?style=for-the-badge&logo=Google%20Cloud)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-grey?style=for-the-badge&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-grey?style=for-the-badge&logo=Keras)
+![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)
+![Slack](https://img.shields.io/badge/-Slack-grey?style=for-the-badge&logo=Slack)
+![Trello](https://img.shields.io/badge/-Trello-grey?style=for-the-badge&logo=Trello)
+![Jira](https://img.shields.io/badge/-Jira-grey?style=for-the-badge&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-grey?style=for-the-badge&logo=Confluence)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=for-the-badge&logo=Visual%20Studio%20Code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-grey?style=for-the-badge&logo=Jupyter)
+![Kaggle](https://img.shields.io/badge/-Kaggle-grey?style=for-the-badge&logo=Kaggle)
+
+
+
+
+
+
 
 <hr/>
 
