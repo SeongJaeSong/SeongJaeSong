@@ -1,22 +1,27 @@
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seongjaesong)](https://hits.seeyoufarm.com)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=SeongJaeSong&show_icons=true&hide_border=true)
-//깃헙 레포 사용 언어 수
+
+
 ![languages](https://img.shields.io/github/languages/count/seongjaesong/survive )
-//깃헙 레포 최다빈도 언어
+
+
 ![most used](https://img.shields.io/github/languages/top/seongjaesong/survive)
-//깃헙 레포 코드 용량
+
+
 ![code size](https://img.shields.io/github/languages/code-size/seongjaesong/survive)
-//깃헙 레포 용량
+
+
 ![repo size](https://img.shields.io/github/repo-size/seongjaesong/survive)
-//깃헙 레포 오픈 이슈 개수
+[//]: # (깃헙 레포 오픈 이슈 개수)
 ![opened issue](https://img.shields.io/github/issues/seongjaesong/survive)
-//깃헙 레포 닫힌 이슈 개수
+[//]: # (깃헙 레포 닫힌 이슈 개수)
 ![closed issue](https://img.shields.io/github/issues-closed/seongjaesong/survive)
-//깃헙 레포 주간 커밋 수
+[//]: # (깃헙 레포 주간 커밋 수)
 ![weekly commit](https://img.shields.io/github/commit-activity/w/seongjaesong/survive)
-//깃헙 레포 라스트 커밋 날짜
+[//]: # (깃헙 레포 라스트 커밋 날짜)
 ![last commit](https://img.shields.io/github/last-commit/seongjaesong/survive)
 </div>
 
