@@ -54,7 +54,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-grey?style=for-the-badge&logo=MariaDb)
 ![Keras](https://img.shields.io/badge/-Keras-grey?style=for-the-badge&logo=Keras)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java)
-![Google Cloud](https://img.shields.io/badge/-grey%20Cloud-grey?style=for-the-badge&logo=Google%20Cloud)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-grey?style=for-the-badge&logo=Google%20Cloud)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-grey?style=for-the-badge&logo=Kaggle)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=Linux)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-grey?style=for-the-badge&logo=Vue.js)
