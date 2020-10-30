@@ -21,7 +21,7 @@
 
 🏢 **Company**: DoubleNC *(Internship)*
 
-🏫 **Major**: Computer Science in Kookmin Univ. Seoul, Korea
+🏫 **Major**: [Computer Science](https://github.com/SeongJaeSong/cs) in Kookmin Univ. Seoul, Korea
 
 
 ## What I did
