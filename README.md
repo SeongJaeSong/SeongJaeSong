@@ -19,7 +19,7 @@
 
 🏠 **Location**: Seoul, South Korea
 
-🏢 **Company**: DoubleNC *(Internship)*
+🏢 **Company**: DoubleNC
 
 🏫 **Major**: [Computer Science](https://github.com/SeongJaeSong/cs) in Kookmin Univ. Seoul, Korea
 
